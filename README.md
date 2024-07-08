@@ -1,4 +1,4 @@
-## Hi. I'm an Economics undergraduate student in Argentina. After having used some software tools related to practical work in economics, I began to become very interested in Computer science. I want to learn about it as I finish my degree, and I think the best way to do that is to learn more deeply software and languages that I already use in my degree.
+## Hi. I'm an Economics undergraduate student in Argentina. I'm in 3rd year and after having used some software tools related to practical work in economics, I began to become very interested in Computer science. I want to learn about it as I finish my degree, and I think the best way to do that is to learn more deeply software and languages that I already use in my degree.
 
 <!--
 **LucasRosenz/LucasRosenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
